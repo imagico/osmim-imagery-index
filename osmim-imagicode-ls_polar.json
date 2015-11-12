@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-ls_polar",
+    "name": "imagico.de OSM images for mapping: May 2013 off-nadir Landsat",
+    "description": "LC80372442013137LGN01-LC80530012013137LGN01, 2013-05-17, channels 234 (true color), Only available image north of the regular Landsat limit, mostly with seasonal snow cover so difficult to interpret",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=ls_polar&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": -89.8315284119521,
+            "max_lon": -17.9663056823904,
+            "min_lat": 81.3934028410464,
+            "max_lat": 83.7045077508689
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-greenland",
+    "name": "imagico.de OSM images for mapping: Greenland mosaic",
+    "description": "mostly Landsat 8 2013-2015 channels 234 (true color), Landsat mosaic of Greenland",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=greenland&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": -74.5601685819203,
+            "max_lon": -10.7797834094343,
+            "min_lat": 59.5489771747508,
+            "max_lat": 82.6959322619224
+        }
+    }
+}

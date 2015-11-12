@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-LC82280982013259LGN00",
+    "name": "imagico.de OSM images for mapping: Isla Londonderry",
+    "description": "LC82280982013259LGN00, 2013-09-16, channel 654 (false color IR), A lot of very coarse coastlines could be improved here, much snow cover though so no use for glacier mapping",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=LC82280982013259LGN00&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": -72.2652065929688,
+            "max_lon": -69.4910293325508,
+            "min_lat": -55.5594608405404,
+            "max_lat": -54.178890106312
+        }
+    }
+}

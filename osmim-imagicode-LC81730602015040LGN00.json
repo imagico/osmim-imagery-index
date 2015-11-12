@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-LC81730602015040LGN00",
+    "name": "imagico.de OSM images for mapping: Rwenzori Mountains",
+    "description": "LC81730602015040LGN00, 2015-02-09, channel 654 (false color IR), Recent image of most of the remaining Rwenzori Mountains glaciers",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=LC81730602015040LGN00&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": 29.7662967768464,
+            "max_lon": 30.0346684679771,
+            "min_lat": 0.20687257729646,
+            "max_lat": 0.509176367154027
+        }
+    }
+}

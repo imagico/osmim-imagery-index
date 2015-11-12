@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-LC80910682014358LGN00",
+    "name": "imagico.de OSM images for mapping: Vanatinai",
+    "description": "LC80910682014358LGN00, 2014-12-24, channels 234 (true color), Coarse coastline due to cloud cover in Bing/Mapbox",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=LC80910682014358LGN00&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": 153.061381062565,
+            "max_lon": 154.411998092239,
+            "min_lat": -11.7892410342423,
+            "max_lat": -11.0722925205757
+        }
+    }
+}

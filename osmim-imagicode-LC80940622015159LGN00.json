@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-LC80940622015159LGN00",
+    "name": "imagico.de OSM images for mapping: New Ireland",
+    "description": "LC80940622015159LGN00, 2015-06-08, channels 234 (true color), Many missing islands in OSM (mostly mapped meanwhile)",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=LC80940622015159LGN00&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": 150.388533766196,
+            "max_lon": 150.833478309574,
+            "min_lat": -2.80056783608088,
+            "max_lat": -2.38339617820643
+        }
+    }
+}

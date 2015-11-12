@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-LC81490352013282LGN00",
+    "name": "imagico.de OSM images for mapping: Western Karakoram",
+    "description": "LC81490352013282LGN00, 2013-10-09, channels 234 (true color), Represents approximately minimum snow cover so can be well used for glacier mapping",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=LC81490352013282LGN00&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": 73.9309166917002,
+            "max_lon": 76.5270029470414,
+            "min_lat": 34.9688073863467,
+            "max_lat": 37.0985693236903
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-LC81960222015233LGN00ir",
+    "name": "imagico.de OSM images for mapping: Northern German west coast tidalflats (infrared)",
+    "description": "LC81960222015233LGN00, 2015-08-21 channel 654 (false color IR), Up-to-date low tide imagery of the coast for updating mapping of tidalflats and shoals",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=LC81960222015233LGN00ir&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": 7.63567991501593,
+            "max_lon": 9.20773166222509,
+            "min_lat": 53.2802190281286,
+            "max_lat": 55.502457780526
+        }
+    }
+}

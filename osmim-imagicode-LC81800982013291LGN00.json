@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-LC81800982013291LGN00",
+    "name": "imagico.de OSM images for mapping: Bouvet Island",
+    "description": "LC81800982013291LGN00, 2013-10-18, channels 234 (true color), For more accurate coastline and glacier mapping",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=LC81800982013291LGN00&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": 3.24652940311363,
+            "max_lon": 3.46391271871771,
+            "min_lat": -54.4705168479877,
+            "max_lat": -54.3753916879791
+        }
+    }
+}

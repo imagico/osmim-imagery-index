@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-LC81130622013270LGN00",
+    "name": "imagico.de OSM images for mapping: Southeastern Sulawesi",
+    "description": "LC81130622013270LGN00, 2013-09-27, channels 234 (true color), Missing islands and coarse coastline due to cloud cover in Bing, lakes could also use additional detail",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=LC81130622013270LGN00&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": 120.843824420484,
+            "max_lon": 122.626180758858,
+            "min_lat": -3.59549835456283,
+            "max_lat": -2.51468168634705
+        }
+    }
+}

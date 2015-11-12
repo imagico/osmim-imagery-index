@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-LC80360072014245LGN00",
+    "name": "imagico.de OSM images for mapping: Eastern Devon Island coast",
+    "description": "LC80360072014245LGN00/LC80380062014243LGN00, 2014-09-02, channel 654 (false color IR), Coastline mostly mapped meanwhile",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=LC80360072014245LGN00&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": -84.3479873388655,
+            "max_lon": -79.1485833901459,
+            "min_lat": 74.3894989734754,
+            "max_lat": 75.8903032392084
+        }
+    }
+}

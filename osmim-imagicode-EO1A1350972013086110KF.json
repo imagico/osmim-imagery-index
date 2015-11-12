@@ -1,0 +1,20 @@
+{
+    "id": "osmim-imagicode-EO1A1350972013086110KF",
+    "name": "imagico.de OSM images for mapping: Northwest Heard Island",
+    "description": "EO1A1350972013086110KF, 2013-03-13, channels 973 (false color IR), Glaciers of Northwest Heard Island (mapped meanwhile)",
+    "attribution": {
+        "text": "imagico.de OSM images for mapping",
+        "url": "http://maps.imagico.de/#osmim",
+        "required": true
+    },
+    "type": "tms",
+    "url": "http://imagico.de/map/osmim_tiles.php?layer=EO1A1350972013086110KF&z={zoom}&x={x}&y={-y}",
+    "extent": {
+        "bbox": {
+            "min_lon": 73.2279041335011,
+            "max_lon": 73.7898811920934,
+            "min_lat": -53.2033655831056,
+            "max_lat": -52.9494391381048
+        }
+    }
+}
